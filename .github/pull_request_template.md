@@ -23,7 +23,9 @@ Related to #
 
 ### Other Repositories
 
-* [ ] Did you update the documentation in the `README.md`? Could someone else on our team replicate or use your work?
+* [ ] Did you update any relevant documentation (`README.md` etc.)?
+* [ ] Could someone else on the `ihmeuw-demographics` team replicate or use your work using available documentation?
+* [ ] Did you test your work? Either via automated tests or documented manual testing?
 
 ## Details of PR
 
