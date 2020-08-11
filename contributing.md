@@ -2,7 +2,9 @@
 
 The demographics team for the [Global Burden of Disease Study](http://www.healthdata.org/gbd) at the [Institute for Health Metrics and Evaluation](http://www.healthdata.org/) is actively working on moving more code development to publicly available github repositories.
 
-We encourage contributions of bug reports, feature requests, improved documentation, and software development. As this open source project is still in its infancy, documentation and testing has mainly been created and reviewed by GBD demographics team members, so we appreciate feedback in making this work more accessible to collaborators outside of IHME.
+We encourage contributions of bug reports, feature requests, improved documentation, and software development. This can be in the form of creating a new Github issue, or making changes and submitting a pull request. Pull requests must be reviewed and approved by GBD demographics team members to ensure documentation, testing, code style, and other standards are met.
+
+As this open source project is still in its infancy, documentation and testing has mainly been created and reviewed by GBD demographics team members, so we appreciate feedback in making this work more accessible to collaborators outside of IHME.
 
 ## Contributing to R packages
 
