@@ -23,7 +23,7 @@ Related to #
 
 ### Other Repositories
 
-* [ ] Did you update any relevant documentation (`README.md` etc.)?
+* [ ] Did you update any relevant documentation (`README.md`, script headers, wiki pages, internal IHME hub pages etc.)?
 * [ ] Could someone else on the `ihmeuw-demographics` team replicate or use your work using available documentation?
 * [ ] Did you test your work? Either via automated tests or documented manual testing?
 
