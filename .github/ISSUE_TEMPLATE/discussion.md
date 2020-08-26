@@ -12,5 +12,8 @@ A clear and concise description of what the problem or scenario is. Ex. We have 
 **Describe possible standards, solutions or other ideas**
 A clear and concise description or outline of possible ideas.
 
+**Questions to discuss**
+Specific questions not covered already, which should be discussed before this issue is resolved.
+
 **Additional context**
 Add any other context or screenshots about the discussion here.
