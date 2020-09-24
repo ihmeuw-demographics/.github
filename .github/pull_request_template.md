@@ -19,7 +19,8 @@ Related to #
 * [ ] Have you updated or added function (and vignette if applicable) documentation? Did you update the 'man' and 'NAMESPACE' files with `devtools::document()`?
 * [ ] Have you added in tests for the changes included in the PR?
 * [ ] Do the changes follow the `ihmeuw-demographics` [code style](https://github.com/ihmeuw-demographics/packageTemplate/wiki/Code-style-guide)?
-* [ ] Do your changes need to be immediately included in a new build of [`docker-base`](https://github.com/ihmeuw-demographics/docker-base) or [`docker-internal`](https://github.com/ihmeuw-demographics/docker-internal)? If so follow directions in those repositories to rebuild and redeploy the images.
+* [ ] Do the changes need to be immediately included in a new build of [`docker-base`](https://github.com/ihmeuw-demographics/docker-base) or [`docker-internal`](https://github.com/ihmeuw-demographics/docker-internal)? If so follow directions in those repositories to rebuild and redeploy the images.
+* [ ] Do the changes require updates to other repositories which use this package? If yes, make the necessary updates in those repos, and consider an integration tests for those repositories.
 
 ### Other Repositories
 
