@@ -24,9 +24,10 @@ Related to #
 
 ### Other Repositories
 
-* [ ] Did you update any relevant documentation (`README.md`, script headers, wiki pages, internal IHME hub pages etc.)?
+* [ ] Did you update any relevant documentation (`README.md`, script headers, wiki pages, internal IHME hub pages etc.). See the [internal team documentation standards](https://hub.ihme.washington.edu/pages/viewpage.action?pageId=101583482).
+* [ ] Do the changes follow the `ihmeuw-demographics` code style guide? See the [internal team code style guide](https://hub.ihme.washington.edu/display/DRT/Code+Style+Guide).
+* [ ] Did you test your work with either automated tests or documented manual testing? See the [internal team testing standards](https://hub.ihme.washington.edu/display/DRT/Demographics+Testing).
 * [ ] Could someone else on the `ihmeuw-demographics` team replicate or use your work using available documentation?
-* [ ] Did you test your work? Either via automated tests or documented manual testing?
 
 ## Details of PR
 
