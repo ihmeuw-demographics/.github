@@ -13,8 +13,9 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 
 Steps to reproduce the codebug:
-1. Write out small reproducible code with example input.
-2. Use `reprex` R package (or something similar) to appropriately format code for github, slack etc.
+1. Create small example input arguments that induce the bug.
+2. Include the example function call.
+2. Format the code and output for github, slack, etc. For R code consider formatting with the [`reprex` R package](https://reprex.tidyverse.org/index.html).
 
 ``` r
 rbinom(3, size = 10, prob = 0.5)
