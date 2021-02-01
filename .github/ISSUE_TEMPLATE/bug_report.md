@@ -11,6 +11,16 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **To Reproduce**
+
+Steps to reproduce the codebug:
+1. Write out small reproducible code with example input.
+2. Use `reprex` R package (or something similar) to appropriately format code for github, slack etc.
+
+``` r
+rbinom(3, size = 10, prob = 0.5)
+#> [1] 5 6 8
+```
+
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
