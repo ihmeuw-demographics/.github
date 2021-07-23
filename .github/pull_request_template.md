@@ -21,6 +21,7 @@ Related to #
 * [ ] Do the changes follow the `ihmeuw-demographics` [code style](https://github.com/ihmeuw-demographics/packageTemplate/wiki/Code-style-guide)?
 * [ ] Do the changes need to be immediately included in a new build of [`docker-base`](https://github.com/ihmeuw-demographics/docker-base) or [`docker-internal`](https://github.com/ihmeuw-demographics/docker-internal)? If so follow directions in those repositories to rebuild and redeploy the images.
 * [ ] Do the changes require updates to other repositories which use this package? If yes, make the necessary updates in those repos, and consider integration tests for those repositories.
+* [ ] If this is a private package did you use Jenkins to rebuild the internal pkgdown site?
 
 ### Other Repositories
 
