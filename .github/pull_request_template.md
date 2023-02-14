@@ -2,15 +2,25 @@
 
 Clearly and concisely describe what is included in this PR. What is the PR changing?
 
-## What issues are related
+## What issues/PRs are related
 
-Fixes #
+Jira ticket links: 
 
-Related to #
+Related PR links:
+
+Notes:
+- copy relevant slack threads to jira ticket
 
 ## Checklist
 
 <!-- You can erase any parts of this checklist that are not applicable to your PR. -->
+
+### Other Repositories
+
+* [ ] Did you update any relevant documentation (`README.md`, script headers, wiki pages, internal IHME hub pages etc.). See the [internal team documentation standards](https://hub.ihme.washington.edu/pages/viewpage.action?pageId=101583482).
+* [ ] Do the changes follow the `ihmeuw-demographics` code style guide? See the [internal team code style guide](https://hub.ihme.washington.edu/display/DRT/Code+Style+Guide).
+* [ ] Did you test your work with either automated tests or documented manual testing? See the [internal team testing standards](https://hub.ihme.washington.edu/display/DRT/Demographics+Testing).
+* [ ] Could someone else on the `ihmeuw-demographics` team replicate or use your work using available documentation?
 
 ### Packages Repositories
 
@@ -19,16 +29,8 @@ Related to #
 * [ ] Have you updated or added function (and vignette if applicable) documentation? Did you update the 'man' and 'NAMESPACE' files with `devtools::document()`?
 * [ ] Have you added in tests for the changes included in the PR?
 * [ ] Do the changes follow the `ihmeuw-demographics` [code style](https://github.com/ihmeuw-demographics/packageTemplate/wiki/Code-style-guide)?
-* [ ] Do the changes need to be immediately included in a new build of [`docker-base`](https://github.com/ihmeuw-demographics/docker-base) or [`docker-internal`](https://github.com/ihmeuw-demographics/docker-internal)? If so follow directions in those repositories to rebuild and redeploy the images.
 * [ ] Do the changes require updates to other repositories which use this package? If yes, make the necessary updates in those repos, and consider integration tests for those repositories.
 * [ ] If this is a private package did you use Jenkins to rebuild the internal pkgdown site?
-
-### Other Repositories
-
-* [ ] Did you update any relevant documentation (`README.md`, script headers, wiki pages, internal IHME hub pages etc.). See the [internal team documentation standards](https://hub.ihme.washington.edu/pages/viewpage.action?pageId=101583482).
-* [ ] Do the changes follow the `ihmeuw-demographics` code style guide? See the [internal team code style guide](https://hub.ihme.washington.edu/display/DRT/Code+Style+Guide).
-* [ ] Did you test your work with either automated tests or documented manual testing? See the [internal team testing standards](https://hub.ihme.washington.edu/display/DRT/Demographics+Testing).
-* [ ] Could someone else on the `ihmeuw-demographics` team replicate or use your work using available documentation?
 
 ## Details of PR
 
